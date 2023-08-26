@@ -29,22 +29,22 @@
   ],
   "devDependencies": {
     "@iamjoberror/reactive-textarea": "2.1.1",
-    "@nuxt/devtools": "^0.8.0",
+    "@nuxt/devtools": "0.8.0",
     "@nuxt/types": "2.17.1",
     "@nuxt/typescript-build": "3.0.1",
     "@nuxtjs/eslint-config-typescript": "12.0.0",
     "@nuxtjs/google-fonts": "3.0.2",
     "@nuxtjs/tailwindcss": "6.8.0",
-    "@types/node": "20.5.4",
+    "@types/node": "20.5.6",
     "@typescript-eslint/eslint-plugin": "^6.4.1",
     "@typescript-eslint/parser": "6.4.1",
-    "eslint": "8.47.0",
+    "eslint": "8.48.0",
     "eslint-config-prettier": "9.0.0",
     "eslint-import-resolver-typescript": "3.6.0",
     "eslint-plugin-prettier": "5.0.0",
     "eslint-plugin-tailwindcss": "^3.13.0",
-    "nuxt": "3.6.5",
+    "nuxt": "3.7.0",
     "prettier": "3.0.2",
-    "typescript": "5.1.6"
+    "typescript": "5.2.2"
   }
 }
