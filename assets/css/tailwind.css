@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: Poppins, sans-serif;
+  }
+
+  body {
+    @apply box-border;
+  }
+
+  .layout {
+    @apply flex px-[2vw] md:px-[4vw] xl:px-[8vw];
+  }
+
+  .menu {
+    @apply inline-flex p-2 md:px-4 rounded-lg border-2 border-pink-200 text-black/70 text-sm md:text-lg font-medium hover:shadow-md bg-white/20;
+  }
+
+  .menu-active {
+    @apply border-pink-400 bg-white font-medium text-pink-600;
+  }
+}
